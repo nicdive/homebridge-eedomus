@@ -1,14 +1,14 @@
 {
-  "name": "homebridge-eedomus",
-  "version": "0.0.2",
-  "description": "eedomus plugin for homebridge",
+  "name": "homebridge-eedomus-docker",
+  "version": "0.0.1",
+  "description": "eedomus plugin for homebridge on docker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaszito/homebridge-eedomus.git"
+    "url": "git+https://github.com/nicdive/homebridge-eedomus-docker.git"
   },
   "dependencies": {
     "request": "^2.65.0"
